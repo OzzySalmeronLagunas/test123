@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="MyDiet">
+    <TocEntry
+      Title="High Fat Low Carb Diet"
+      Link="/Content/MyDiet/High Fat Low Carb Diet.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Fats">
+    <TocEntry
+      Title="Avocado Oil"
+      Link="/Content/Fats/Avocado Oil.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Fats/test51501.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MCT Oil"
+      Link="/Content/Fats/MCT Oil.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Protein">
+    <TocEntry
+      Title="Steak"
+      Link="/Content/Protein/Steak.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Vegetables">
+    <TocEntry
+      Title="Asparagus"
+      Link="/Content/Vegetables/Asparagus.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
